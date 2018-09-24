@@ -20,10 +20,13 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="pch.cpp">
+    <ClCompile Include="치킨배달.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="치킨배달.cpp">
+    <ClCompile Include="드래곤커브.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="사다리조작.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
